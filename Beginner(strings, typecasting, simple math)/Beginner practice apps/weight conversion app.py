@@ -1,5 +1,3 @@
-import math
-
 unit = input("What unit of weight would you like to convert? kg or lbs?: ")
 
 weight = float(input("enter the weight: "))

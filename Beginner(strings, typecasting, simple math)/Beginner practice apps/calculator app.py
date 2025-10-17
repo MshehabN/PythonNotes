@@ -1,5 +1,3 @@
-import math
-
 x  =(input("what operation would you like to do? +, -, /, * : "))
 
 y =float(input("what is your first number?: "))
