@@ -1,5 +1,5 @@
 #grocery list app
-from typing import Any
+
 
 receipt = []
 
