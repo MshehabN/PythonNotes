@@ -42,6 +42,7 @@ def shippingLabel(*args, **kwargs):
     print()
     for value in kwargs.values():
         print(value, end= " ")
+
 #make sure that the args, precede the kwargs
 shippingLabel("Dr", "spongebob", "squarepants", "III",
                 street="Bank street",
