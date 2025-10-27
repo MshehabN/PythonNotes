@@ -14,9 +14,9 @@ print(spaceRemover("function that returns the string but without spaces"))
 
 
 #SIMPLER CODE
-def spaceRemover(sentence):
-    spareList = []
-    for char in sentence:
-        if char != " ":
-            spareList.append(char)
-    return "".join(spareList)
+#def spaceRemover(sentence):
+#    spareList = []
+#    for char in sentence:
+#       if char != " ":
+#            spareList.append(char)
+#   return "".join(spareList)
